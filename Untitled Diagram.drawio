@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.14" pages="4">
-  <diagram name="Resources" id="z0mxxkySpNtkc_CifnGy">
+  <diagram name="Services" id="z0mxxkySpNtkc_CifnGy">
     <mxGraphModel dx="1194" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -7,7 +7,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="d_hDl0-xj_WEgm-Ct2LM" name="Services">
+  <diagram id="d_hDl0-xj_WEgm-Ct2LM" name="Resources">
     <mxGraphModel dx="1194" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -88,7 +88,7 @@
             <mxRectangle width="80" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hnoS3iVxUS1HaRV6TcxL-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hnoS3iVxUS1HaRV6TcxL-1">
+        <mxCell id="hnoS3iVxUS1HaRV6TcxL-3" value="String" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hnoS3iVxUS1HaRV6TcxL-1">
           <mxGeometry x="80" width="80" height="37" as="geometry">
             <mxRectangle width="80" height="37" as="alternateBounds" />
           </mxGeometry>
